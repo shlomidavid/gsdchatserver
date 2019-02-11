@@ -22,6 +22,7 @@
     },
     "contributors": [],
     "dependencies": {
+        "ejs": "^2.6.1",
         "express": "4.16.4",
         "mysql": "^2.16.0",
         "socket.io": "^2.2.0"
